@@ -1,0 +1,1 @@
+Hotel numero 1;Paris;3
